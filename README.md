@@ -1,16 +1,18 @@
-## Hi there 👋
+# I'm Nguyen Quang Huy
 
-<!--
-**HuyHocLapTrinhGame/HuyHocLapTrinhGame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Dynamic person.
 
-Here are some ideas to get you started:
+## Skills
+- Web Development
+- Java
+- C#
+- BlockChain  (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+## Connect with Me
+[![Email](https://img.shields.io/badge/Email-DuckLawrence-red?style=flat&logo=gmail)](nguyenquanghuy14022005@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-DuckLawrence-blue?style=flat&logo=facebook)]([https://facebook.com/your_profile](https://www.facebook.com/huy.nguyen.649537))
+  
+Thanks for visiting my profile!
